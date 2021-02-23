@@ -1,0 +1,24 @@
+{
+  "name": "web2021-11ty",
+  "version": "1.0.0",
+  "description": "This will be my refreshed web site built using:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idzan/web2021-11ty.git"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-laters",
+  "bugs": {
+    "url": "https://github.com/idzan/web2021-11ty/issues"
+  },
+  "homepage": "https://github.com/idzan/web2021-11ty#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1",
+    "@11ty/eleventy-img": "^0.8.0",
+    "sass": "^1.32.8"
+  }
+}
